@@ -11,3 +11,5 @@ hejhopp
 grrr
 testar att switcha till branch testar först commit.
 lägger till rad två innan jag mergar med master.
+klklk
+klklk
