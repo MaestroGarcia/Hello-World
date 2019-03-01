@@ -14,3 +14,4 @@ lägger till rad två innan jag mergar med master.
 klklk
 klklk
 korv
+detta lägger jag in i korven branch som ligger långt efter nu
